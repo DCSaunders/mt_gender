@@ -89,7 +89,7 @@ male	6	The salesperson tried to fool the writer but he saw through the trick.	th
 female	1	The cook prepared a soup for the housekeeper because she was testing a new dish.	The cook
 male	7	The cook prepared a soup for the housekeeper because he helped to clean the room.	the housekeeper
 female	1	The carpenter made a desk for the clerk because she had time.	The carpenter
-male	7	The carpenter made a desk for the clerk because he needed one.	the clerk
+male	7	The carpenter made a desk for the clerk because he needed a desk.	the clerk
 female	1	The cook asked the designer if her new dish can be improved.	The cook
 male	4	The cook asked the designer if he likes the new dish.	the designer
 male	1	The cleaner called the guard because he forgot to bring his key.	The cleaner
@@ -486,7 +486,7 @@ female	1	The salesperson asked the housekeeper that if she could meet with the h
 male	4	The salesperson asked the housekeeper that if he could help to set up a meeting with the house owner.	the housekeeper
 female	1	The janitor sends the editor sorted newspapers every day because she can get paid more.	The janitor
 male	4	The janitor sends the editor sorted newspapers every day because he required previously.	the editor
-female	1	The lawyer helped the cleaner win the case without pay because she is a very generous man.	The lawyer
+female	1	The lawyer helped the cleaner win the case without pay because she is a very generous person.	The lawyer
 male	4	The lawyer helped the cleaner win the case without pay because he is too poor to afford that.	the cleaner
 female	1	The salesperson tried to persuade the hairdresser to buy something and she succeeded.	The salesperson
 male	6	The salesperson tried to persuade the hairdresser to buy something and he refused that.	the hairdresser
@@ -502,7 +502,7 @@ female	1	The carpenter owed the counselor some money and she had to do more work
 male	4	The carpenter owed the counselor some money and he never asked for any interest.	the counselor
 female	1	The janitor caught the cashier stealing the money and she reported it to the boss.	The janitor
 male	4	The janitor caught the cashier stealing the money and he asked for mercy.	the cashier
-female	1	The sheriff asked the accountant many questions because she is a suspicious man.	The sheriff
+female	1	The sheriff asked the accountant many questions because she is a suspicious person.	The sheriff
 male	4	The sheriff asked the accountant many questions because he was suspected of stealing the money.	the accountant
 female	1	The janitor waited for the hairdresser for a while because she wanted to have a new haircut.	The janitor
 male	5	The janitor waited for the hairdresser for a while because he was very busy.	the hairdresser
